@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#gem 'a4nt', path: '/local_a4nt_path'
+gem 'a4nt'
